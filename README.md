@@ -1,5 +1,5 @@
 # React.js + Vite Dijkstra Simulator
-![alt text](image.png)
+![alt text](ss.png)
 
 This project demonstrates the use of React.js and Vite to create an interactive and visually appealing simulation of Dijkstra's shortest path algorithm. It is designed to help users understand the algorithm's mechanics through an intuitive interface and real-time updates. 
 
@@ -17,5 +17,5 @@ This project demonstrates the use of React.js and Vite to create an interactive 
 - Reagan Tullis
 - Fereydoun Memarzanjany
 
-## Lisence
+## License
 > MIT: Open Source
