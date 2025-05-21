@@ -44,14 +44,6 @@ export class Graph {
     return edges;
   }
 
-  /**
-   * Prepare for Dijkstra's algorithm.
-   * Returns an object with:
-   * - distances: Map from vertex value to shortest distance from start
-   * - previous:  Map from vertex value to predecessor on the shortest path
-   *
-   * You can later plug in a priority queue for efficient extraction.
-   */
   dijkstra(startValue) {
     const distances = new Map();
     const previous = new Map();
