@@ -14,10 +14,10 @@ const Footer = () => {
                 <a href="https://github.com/Thraetaona" className='text-gray-400 hover:text-white'>Fereydoun Memarzanjany</a>
         </div>
         <div className='flex flex-col  gap-3'>
-            <span className='font-bold text-lg'>ABOUT</span>
-                <a href="#" className='text-gray-400 hover:text-white'>Privacy Policy</a>
-                <a href="#" className='text-gray-400 hover:text-white'>Terms of Service</a>
-                <a href="#" className='text-gray-400 hover:text-white'>Contact Us</a>
+            <span className='font-bold text-lg'>RESOURCES</span>
+                <a href="https://math.umd.edu/~immortal/CMSC351/notes/dijkstra.pdf" className='text-gray-400 hover:text-white'>University of Maryland</a>
+                <a href="https://www.youtube.com/watch?v=_lHSawdgXpI" className='text-gray-400 hover:text-white'>Video Explanation</a>
+                <a href="https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844" className='text-gray-400 hover:text-white'>Textbook</a>
         </div>
 
         </footer>
