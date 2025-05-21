@@ -9,7 +9,7 @@ This project demonstrates the use of React.js and Vite to create an interactive 
 1. Clone Repo `git clone https://github.com/notKeion/CSC-340-Final`
 2. Open project `cd CSC-340-Final`
 2. Install Dependencies with `npm install`
-3. Run Development Branch `npm run dev`
+3. Run Development Branch `npm run dev -- --host --port 8000`
 
 
 ## Authors
